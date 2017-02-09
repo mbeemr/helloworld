@@ -1,7 +1,0 @@
-Here is a text file from Maria
-ABC
-ABC
-ABC
-ABC
-one more line
-more again to file
